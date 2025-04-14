@@ -1,13 +1,14 @@
-# Question 1
+# Question 2
 
-Transform the OCCUPATIONS table by pivoting the Occupation column, so that each occupation becomes its own column. 
+Transform the **OCCUPATIONS** table by pivoting the Occupation column, so that each occupation becomes its own 
+column. 
 The final output should have four columns in this exact order: Doctor, Professor, Singer, and Actor.
 
 Each column should list the names of individuals with that occupation, sorted in alphabetical order. Align the 
 names row by row so that the first row shows the first name for each occupation, the second row shows the second 
 name for each occupation, and so on.
 
-If a particular row has no name for a given occupation, display NULL in that cell.
+If a particular row has no name for a given occupation, display **NULL** in that cell.
 
 
 ## 🔹 OCCUPATIONS table
