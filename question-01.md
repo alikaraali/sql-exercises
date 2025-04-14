@@ -12,16 +12,19 @@ need to write **two SQL queries** to process and display the data in specific fo
 **parentheses**.
 
 #### ✅ Expected Format:
-> Alice(A)
-> Bob(D)
-> Charlie(P)
-> Diana(S)
-
+```
+Alice(A)
+Bob(D)
+Charlie(P)
+Diana(S)
+```
 ### 2. Second Query:
 
 Count how many people have each occupation. Then print that information in this format:
 
-> There are a total of [number] [occupation]s.
+```
+There are a total of [number] [occupation]s.
+```
 
 Use **lowercase** for the occupation name, add **"s"** at the end (plural), and **sort** the results by number 
 (smallest first). If two jobs have the same number of people, **sort alphabetically by the job title**.
@@ -29,10 +32,12 @@ Use **lowercase** for the occupation name, add **"s"** at the end (plural), and 
 
 #### ✅ Expected Format:
 
->There are a total of 2 doctors.
->There are a total of 2 singers.
->There are a total of 3 actors.
->There are a total of 3 professors.`
+```
+There are a total of 2 doctors.
+There are a total of 2 singers.
+There are a total of 3 actors.
+There are a total of 3 professors.`
+```
 
 
 
