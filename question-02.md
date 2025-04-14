@@ -49,6 +49,12 @@ INSERT INTO OCCUPATIONS (Name, Occupation) VALUES
 The solution should be as follows:
 
 ``` sql
-solution
+Aamina Ashley Christeen Eve
+Julia Belvet Jane Jennifer
+Priya Britney Jenny Ketty
+NULL Maria Kristeen Samantha
+NULL Meera NULL NULL
+NULL Naomi NULL NULL
+NULL Priyanka NULL NULL
 ```
 
